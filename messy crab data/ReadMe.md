@@ -9,6 +9,10 @@ and presents a wide range of issues, such as : **improper measurement**, **poor 
 ## Data description
 Individual crab measurements and qualitive observations. This is a **very large data set**. There are **millions** of individual crab observations, made by hundreds of different fishery observers, over a 30-40 year span of time.
 
+| <img src="https://github.com/TobieSurette/student-projects/assets/14942142/2ba5ebcb-7eac-459b-9769-553df8c115ae" width="300"> | <img src="https://github.com/TobieSurette/student-projects/assets/14942142/8d24a296-2644-4285-92a7-c17e6e259dcb" width="300"> |
+|:--:|:--:|
+| *Measurement of snow crab **carapace width** with Vernier calipers* | *Measurement of snow crab **claw height** Vernier calipers* |
+
 ## Observation bias mechanisms
 - **Equipment failures** : Measurement equipement can become defective or uncalibrated, creating observable biases in the data.
 - **Mismeasurement** : Equipement can be misread or measurement equipement can be misapplied, leading to biases and/or increased variance in the observations. Examples include impropoer application of the measurement caliper to measure the width of the crab carapace or the height of the crab claw.
