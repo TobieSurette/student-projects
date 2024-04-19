@@ -1,7 +1,7 @@
 # Crab group identification & clustering methods
 
 ## Background
-There are many biological processes which lead to distinct groups with ten measurable snow crab populations have  that can  features which can be used to identify them in a mixed sample. 
+There are many biological processes which lead to distinct groups within snow crab populations. They often have measurable features which can be used to identify them in a mixed sample. 
 
 **Table 1** : List of snow crab different snow crab groups that can be identified using field and laboratory data.
 
